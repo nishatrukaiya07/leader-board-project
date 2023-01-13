@@ -94,6 +94,7 @@ main{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    
 }
  .course .course-banner img{
     height: 104px;
@@ -115,4 +116,7 @@ main{
 }
 .fa-regular fa-clock{
     color: pink;
+}
+.course-detail{
+
 }
